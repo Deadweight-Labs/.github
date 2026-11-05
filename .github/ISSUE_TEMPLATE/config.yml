@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security issue
+    url: mailto:security@deadweightlabs.com
+    about: Please don't open a public issue for vulnerabilities.
+  - name: Anything else
+    url: mailto:team@deadweightlabs.com
+    about: Questions that aren't a bug or a feature request.
